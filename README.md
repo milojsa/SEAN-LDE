@@ -333,24 +333,3 @@ lde-editor-module/
 ├── tsconfig.json          # Strict mode matching FWScomments
 └── .env.example           # Configuration template
 ```
-
----
-
-## Next Steps
-
-1. **MS2 Priorities**:
-   - Build canvas UI with Fabric.js
-   - Implement text, image, shape tools
-   - Build export pipeline (PNG, PDF, HTML)
-   - Deploy standalone to Vercel/Render
-
-2. **MS3 Preparation**:
-   - Review adapter implementations in FWScomments
-   - Plan MongoDB schema for layouts collection
-   - Design migration script for old pdf_templates
-
-3. **Future (MS3+)**:
-   - Multi-page support (version 1.0.0)
-   - Collaborative editing
-   - Template library
-   - Advanced effects (shadows, filters, etc.)
